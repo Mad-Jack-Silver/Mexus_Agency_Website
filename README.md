@@ -1,9 +1,11 @@
 # 🏛️ Mexus Agency — Private Luxury Real Estate & Cross-Border Advisory
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo_Ready-brightgreen?style=for-the-badge&logo=github)](https://pages.github.com/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-mexus--agency--website.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mexus-agency-website.vercel.app/)
 [![Tech Stack](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20Vanilla%20JS-blue?style=for-the-badge)](https://developer.mozilla.org/)
 [![Responsive](https://img.shields.io/badge/Design-Luxury%20Editorial%20%26%20Responsive-gold?style=for-the-badge)]()
 [![Performance](https://img.shields.io/badge/Performance-Zero%20Dependencies-success?style=for-the-badge)]()
+
+🌐 **Live Deployment**: [https://mexus-agency-website.vercel.app/](https://mexus-agency-website.vercel.app/)
 
 An editorial-grade, modern luxury real estate platform built for **Mexus Agency**, a private client brokerage connecting discerning buyers, sellers, and investors with exclusive on- and off-market residential estates, commercial developments, and prime land across **Mexico and the United States**.
 
@@ -59,8 +61,8 @@ Designed and engineered as a showcase web application for high-performance portf
 │   ├── inmuebles24/         # 15 Curated high-resolution property photographs
 │   ├── contact-hero.png     # Reception & contact page visual
 │   ├── facebook-1.jpg..6    # Social proof & market insights feed
-│   ├── gus-duran.png        # Advisor portrait (Gus Duran)
-│   ├── IMG_5279-edited.jpeg # Founder portrait (Aidi Lopez)
+│   ├── aidi-lopez.jpg       # Founder portrait (Aidi Lopez)
+│   ├── gus-duran.jpg        # Advisor portrait (Gus Duran)
 │   ├── marc-palmer.png      # US Director portrait (Marc Palmer)
 │   ├── mexus-logo-new.png   # Brand identity logo & favicon
 │   └── pexels-*.jpg         # High-resolution architectural photography
